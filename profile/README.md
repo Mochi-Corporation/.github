@@ -1,12 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://mochig.com/icon.png" alt="Logo" width="100" height="100">
+</p>
 
-<!--
+<h1 align="center">MOCHI 🎄</h1>
 
-**Here are some ideas to get you started:**
+<h2 align="center"><a href="https://mochig.com">https://mochig.com</a></h2>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h2 align="center">Credits</h2>
+
+<p align="center">
+  <b>Fred</b> - Code & Design<br>
+  <small>Contact: fred@mochig.com</small>
+</p>
+
+<p align="center">
+  <b>Kura</b> - Code<br>
+  <small>Contact: kura@mochig.com</small>
+</p>
+
+
+<p align="center">
+  <b>Lily</b> - Design<br>
+  <small>Contact: lily@mochig.com</small>
+</p>
+
