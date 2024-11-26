@@ -7,7 +7,8 @@
 <h2 align="center"><a href="https://mochig.com">https://mochig.com</a></h2>
 
 <h3 align="center">Private Source</h3>
-  We are private source, this github company is just so our developers can edit our website.
+  <p align="center">
+    We are private source, this github company is just so our developers can edit our website.
 </p>
 
 <h2 align="center">Credits</h2>
