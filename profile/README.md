@@ -23,9 +23,3 @@
   <small>Contact: kura@mochig.com</small>
 </p>
 
-
-<p align="center">
-  <b>Lily</b> - Design<br>
-  <small>Contact: lily@mochig.com</small>
-</p>
-
