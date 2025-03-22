@@ -1,4 +1,4 @@
-![Image Description](https://raw.githubusercontent.com/Mochi-Corporation/mochi/133d107efd9b8c68e3b006674d24794cb1a1da35/banner.png?token=GHSAT0AAAAAADA3Y2BWX6XOBCOVOVOWRW5IZ67GY6A)
+![Image Description](https://i.imgur.com/LiA4MWN.png)
 ## Mochi Game Company
 
 [Discord server](https://discord.gg/K7C37yPEUv) | [TikTok](https://tiktok.com/@mochiwebsite) | [Jobs](mailto:contact@mochig.com)
