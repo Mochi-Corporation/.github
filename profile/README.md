@@ -1,25 +1,33 @@
-<p align="center">
-  <img src="https://mochig.com/favicon.ico" alt="Logo" width="100" height="100">
-</p>
+![Image Description](https://raw.githubusercontent.com/Mochi-Corporation/mochi/133d107efd9b8c68e3b006674d24794cb1a1da35/banner.png?token=GHSAT0AAAAAADA3Y2BWX6XOBCOVOVOWRW5IZ67GY6A)
+## Mochi Game Company
 
-<h1 align="center">MOCHI</h1>
+[Discord server](https://discord.gg/K7C37yPEUv) | [TikTok](https://tiktok.com/@mochiwebsite) | [Jobs](mailto:contact@mochig.com)
 
-<h2 align="center"><a href="https://mochig.com">https://mochig.com</a></h2>
+We embark on countless adventures on various fields and levels of 
+difficulties to assist and deliver products/services that improves the 
+quality of your life.
 
-<h3 align="center">Private Source</h3>
-  <p align="center">
-    We are private source, this github company is just so our developers can edit our website.
-</p>
+## About
+Mochi Game Company consists of members from across the globe, in various fields - mostly relating to programming. Our current and planned projects are mostly related to discord bots, websites and ai. But we may do more in the future.
 
-<h2 align="center">Credits</h2>
+## Projects
 
-<p align="center">
-  <b>Lily</b> - Code & Design<br>
-  <small>Contact: lily@mochig.com</small>
-</p>
+| Name    | About  |
+|---------|--------|
+| **Mochi Games** | [Website](https://mochig.com) - A game website for playing unblocked games at school or work. |
+| **mochi bot** | [Website](https://bot.mochig.com) - [Invite](https://discord.com/oauth2/authorize?client_id=1234731012727115816) - A general-purpose free customizable Discord bot. |
+| **Aetherion (YARHM)** | [Website](https://yarhm.mhi.im) - [GitHub](https://github.com/Joystickplays/psychic-octo-invention) - Yet another random hub menu, new exploit hub that's for everyone. It's customizable! |
 
-<p align="center">
-  <b>Kura</b> - Code<br>
-  <small>Contact: kura@mochig.com</small>
-</p>
+
+### Meet the team
+- **[xs](https://github.com/xs76)** 🇨🇦 - Developer, Co-Founder
+- **[zeero](https://github.com/multipliedbyzeero)** 🇺🇸 - Developer, Co-Founder
+- **[imperial](https://github.com/Joystickplays)** 🇮🇩 - Developer
+
+Want to join the team? Tell us a bit about yourself in our [Discord server](https://discord.gg/K7C37yPEUv)! Or [Email us!](mailto:contact@mochig.com)
+
+---
+
+est Nov 2023 | © copy Mochi Game Company
+
 
