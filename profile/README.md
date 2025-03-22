@@ -14,8 +14,8 @@
 <h2 align="center">Credits</h2>
 
 <p align="center">
-  <b>Fred</b> - Code & Design<br>
-  <small>Contact: fred@mochig.com</small>
+  <b>Lily</b> - Code & Design<br>
+  <small>Contact: lily@mochig.com</small>
 </p>
 
 <p align="center">
