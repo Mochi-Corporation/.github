@@ -14,7 +14,7 @@ Mochi Game Company consists of members from across the globe, in various fields 
 
 | Name    | About  |
 |---------|--------|
-| **Mochi Games** | [Website](https://mochig.com) - A game website for playing unblocked games at school or work. |
+| **Mochi Games** | [Website](https://mochig.com) - [GitHub](https://github.com/mochi-corporation/mochi) - A game website for playing unblocked games at school or work. |
 | **mochi bot** | [Website](https://bot.mochig.com) - [Invite](https://discord.com/oauth2/authorize?client_id=1234731012727115816) - A general-purpose free customizable Discord bot. |
 | **mochi bot - Website** | [Website](https://bot.mochig.com) - [GitHub](https://github.com/mochi-corporation/mochibot-website) - Website for mochi bot. The bot itself will be open-source eventually. |
 | **Aetherion (YARHM)** | [Website](https://yarhm.mhi.im) - [GitHub](https://github.com/Joystickplays/psychic-octo-invention) - Yet another random hub menu, new exploit hub that's for everyone. It's customizable! |
@@ -29,6 +29,8 @@ Want to join the team? Tell us a bit about yourself in our [Discord server](http
 
 ---
 
-est Nov 2023 | © copy Mochi Game Company
+est Nov 2023 | © Mochi Studios | Surrey, CA
+
+
 
 
